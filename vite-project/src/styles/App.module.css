@@ -1,0 +1,29 @@
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .calendar {
+    text-align: center;
+  }
+  
+  .eventForm {
+    margin-bottom: 20px;
+  }
+  
+  .event {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .eventLink {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .eventDetails {
+    text-align: left;
+  }
+  
